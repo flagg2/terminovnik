@@ -4,7 +4,7 @@ import React from 'react';
 import axios from 'axios'
 import moment from 'moment'
 
-const apiUrl = 'http://localhost:8080/api'
+const apiUrl = 'https://marhulky.sk:8081/api'
 
 class App extends React.Component{
   constructor(){
